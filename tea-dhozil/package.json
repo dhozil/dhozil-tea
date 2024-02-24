@@ -1,0 +1,22 @@
+{
+  "name": "tea-dhozil",
+  "version": "1.0.5",
+  "description": "project tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhozil/dhozil-tea.git"
+  },
+  "author": "dhozil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhozil/dhozil-tea/issues"
+  },
+  "homepage": "https://github.com/dhozil/dhozil-tea#readme",
+  "dependencies": {
+    "greet-codevolution": "^1.0.0"
+  }
+}
