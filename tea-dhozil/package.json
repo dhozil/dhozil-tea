@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhozil/dhozil-tea.git"
+    "url": "https://github.com/dhozil/dhozil-tea"
   },
   "author": "dhozil",
   "license": "ISC",
